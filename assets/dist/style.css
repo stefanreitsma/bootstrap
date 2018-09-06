@@ -1,0 +1,24 @@
+.bg-blue {
+  background-color: #0D3B5D !important;
+}
+
+.ctm-navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar-img {
+  width: 50px;
+}
+
+.current {
+  color: #FCB117 !important;
+}
+
+.navbar-right li a {
+  color: #FFF;
+}
+
+.navbar-right li a:hover {
+  color: #FCB117 !important;
+}
